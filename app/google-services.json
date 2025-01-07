@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582141595871",
+    "project_id": "listadecompras-cab0d",
+    "storage_bucket": "listadecompras-cab0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582141595871:android:7630cbbcbe8f7d664bd96a",
+        "android_client_info": {
+          "package_name": "com.example.listadecompras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzt1PMMWc5_w55IyAuYDmGRZlm_c5gf8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
